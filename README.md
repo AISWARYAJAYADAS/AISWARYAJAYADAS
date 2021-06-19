@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Aiswarya Jayadas </h1>
+<h1 align="center">Hi I'm Aiswarya Jayadas </h1>
 
 
 
