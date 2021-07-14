@@ -3,9 +3,8 @@
 
  Aspiring Developer ♡♡
  Tech-explorer      ♡♡
-
-
-
+ ML/AI enthusiast   ♡♡
+ App Development    ♡♡
 
 
 
