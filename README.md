@@ -12,7 +12,7 @@ I'm <b>Aiswarya Jayadas</b> <img src="https://user-images.githubusercontent.com/
   
 <!--## Show some <❤️> staring some of my repository :)-->
   
-  
+  <!--
   
    <br>
 <h2 align="left">Tech Stack</h2>
@@ -32,6 +32,8 @@ I'm <b>Aiswarya Jayadas</b> <img src="https://user-images.githubusercontent.com/
 <img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="git" width="70" height="40"/> 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="git-hub" width="40" height="40"/> 
 </p>
+
+-->
         
 <!--
 
