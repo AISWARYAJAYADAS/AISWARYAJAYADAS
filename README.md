@@ -4,8 +4,8 @@
 <br/>
 <p>
   <samp>
-I'm <b>Aiswarya Jayadas</b> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">, a ComputerScience Graduate 💻 from Government Engineering College , Palakkad</b>💚. I'm obsessed with the idea of improving myself and want a platform to grow and excel:star:. <br>Beside's programming, I enjoy cooking 👩‍🍳, and watching Anime💖.
-🌱 I’m currently learning and enhancing my skills.
+I'm <b>Aiswarya Jayadas</b> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"><!--, a ComputerScience Graduate 💻 from Government Engineering College , Palakkad</b>💚. I'm obsessed with the idea of improving myself and want a platform to grow and excel:star:. <br>Beside's programming, I enjoy cooking 👩‍🍳, and watching Anime💖.
+🌱 I’m currently learning and enhancing my skills.-->
     </samp>
     <p>
   
