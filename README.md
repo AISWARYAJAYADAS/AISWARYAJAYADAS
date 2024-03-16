@@ -51,12 +51,6 @@ Here are some ideas to get you started:
     
 ![Aisw's github stats](https://github-readme-stats.vercel.app/api?username=monisha16&show_icons=true&theme=dark)   -->
 
--------
-📫 You can contact me through :
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />](https://www.linkedin.com/in/aiswarya-jayadas-017b261b7//) [<img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />](https://www.aiswaryajayadas97@gmail.com)
-
-----
 
 
 
